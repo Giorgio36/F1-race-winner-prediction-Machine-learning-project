@@ -1,0 +1,7 @@
+Model,precision_score_2017
+KNN,0.3
+LR,0.55
+SVC,0.55
+RF,0.45
+GBDT,0.55
+Neural Network,0.55
