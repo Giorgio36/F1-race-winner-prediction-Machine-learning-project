@@ -26,6 +26,8 @@ The following models were taken into account: Logistic Regression, K-nearest nei
 
 To prepared the data for training process, it was necessary to do an over sample to avoid losing information and later an scaling of the data for the algorithms that required it.
 
+It was necessary to create a custom scoring function to get a predicted winner for each race of teh season. The model was set to provide the probability of winning for each driver, being the predicted winner the one with the highest probability.
+
 ## Findings
 As expeected, the tree based model were among the best performers together with the neural network. The SVC models were the most difficult to fine tune due to the computing power they required to be train in the dataset used.
 
