@@ -22,7 +22,7 @@ Several features as DNF rate for constructor and driver are engineered and trans
 ## Machine Learning
 The problem of predicting a winner is approached as a classification problem, a range of models are selected bases on its suitability to the problem. Linear models and tree based models are selected, the laters taking into account theit suitability to dealing with imbalanced classes.
 
-The following models were taken into account: Logistic Regression, K-nearest neighbors, SVC, Random Forest, Grandient Boosting Decision Trees and Neural Networks. For evaluating these models different matrics such as: recall, precision score and f1 score were taking into account, given that accuracy is not sufficient of its own to evaluate an inbalance class problem as the one presented here.
+The following models were taken into account: Logistic Regression, K-nearest neighbors, SVC, Random Forest, Grandient Boosting Decision Trees and Neural Networks. For evaluating these models different matrics such as: recall, precision score and f1 score were taking into account, given that accuracy is not sufficient on its own to evaluate an inbalance class problem as the one presented here (a simple base line algorithm could simply predict the most common class and get a high accuracy).
 
 To prepared the data for training process, it was necessary to do an over sample to avoid losing information and later an scaling of the data for the algorithms that required it.
 
