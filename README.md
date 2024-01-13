@@ -1,4 +1,4 @@
-# F1-race-winner-prediction-2018-season---Machine-learning-project
+# F1-race-winner-prediction-2018-season-Machine-learning-project
 
 ## Project Description: 
 As a life-long Formula 1 fan, before the races I always took a shot at who was going to be the winner just for fun. Considering all the variables that I could think of. This project combines my life-long passion with the new knowledge that I have acquired, ending up in a perfect combination for learning with passion, drive and having the strength and interest to solve the challenges that arise.
